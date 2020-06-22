@@ -1,0 +1,4 @@
+com\sophos\GoogleTranslate.class
+driver\Driver.class
+driver\DriverFactory.class
+com\sophos\StepImplementation.class

@@ -1,0 +1,1 @@
+var index = {"Tags":{},"Specs":{"Google Translate":["specs/google_translate.html"]}};

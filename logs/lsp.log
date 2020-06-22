@@ -1,0 +1,19 @@
+21-06-2020 11:24:02.437 [Gauge] [INFO] Watching directory: c:\Users\julia\automatizacion\googleAuto\specs
+21-06-2020 11:24:02.438 [Gauge] [DEBUG] Found 1 files
+21-06-2020 11:24:02.441 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+21-06-2020 11:24:02.442 [Gauge] [INFO] Initializing specs cache with 1 specs
+21-06-2020 11:24:02.442 [Gauge] [DEBUG] Adding specs from c:\Users\julia\automatizacion\googleAuto\specs\google_translate.spec
+21-06-2020 11:24:02.442 [Gauge] [INFO] Initializing steps cache with 1 steps
+21-06-2020 11:24:02.442 [Gauge] [INFO] Starting language runner
+21-06-2020 11:24:04.291 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+21-06-2020 11:24:18.965 [Gauge] [CRITICAL] Failed to read execution status information. Reason: File c:\Users\julia\automatizacion\googleAuto\.gauge\executionStatus.json doesn't exist.
+21-06-2020 11:24:19.065 [Gauge] [INFO] Watching directory: c:\Users\julia\automatizacion\googleAuto\specs
+21-06-2020 11:24:19.066 [Gauge] [DEBUG] Found 1 files
+21-06-2020 11:24:19.068 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+21-06-2020 11:24:19.068 [Gauge] [INFO] Initializing specs cache with 1 specs
+21-06-2020 11:24:19.068 [Gauge] [DEBUG] Adding specs from c:\Users\julia\automatizacion\googleAuto\specs\google_translate.spec
+21-06-2020 11:24:19.068 [Gauge] [INFO] Initializing steps cache with 1 steps
+21-06-2020 11:24:19.069 [Gauge] [INFO] Starting language runner
+Listening on port:55247
+
+21-06-2020 11:24:20.703 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
